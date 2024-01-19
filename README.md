@@ -1,6 +1,8 @@
 uptime
 # Uptime
 
+================== TO DO: Continue from https://upptime.js.org/docs/get-started =============================
+
 # [📈 Live Status](https://status.agility-game.com): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Agility Game](https://agility-game.com), powered by [Upptime](https://github.com/upptime/upptime).
