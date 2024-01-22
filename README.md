@@ -2,7 +2,10 @@ uptime
 
 # Uptime
 
-================== TO DO: Continue from https://upptime.js.org/docs/get-started =============================
+Learn how to set up this Upptime:
+
+- [Upptime Getting Started](https://upptime.js.org/docs/get-started)
+- [Create personal access token request for organization](https://stackoverflow.com/questions/75044318/create-personal-access-token-request-for-organization)
 
 # [📈 Live Status](https://status.agility-game.com): <!--live status--> **🟥 Complete outage**
 
