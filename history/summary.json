@@ -4,20 +4,19 @@
     "url": "https://agility-game.com",
     "icon": "https://icons.duckduckgo.com/ip3/agility-game.com.ico",
     "slug": "agility-game-landing-page",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 724,
-    "timeDay": 830,
-    "timeWeek": 776,
-    "timeMonth": 737,
-    "timeYear": 736,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-12": 17,
-      "2023-01-25": 20
+      "2024-01-22": 0
     }
   },
   {
@@ -25,22 +24,19 @@
     "url": "https://app.agility-game.com/live",
     "icon": "https://agility-game.com/logo.png",
     "slug": "agility-game-api",
-    "status": "up",
-    "uptime": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 549,
-    "timeDay": 718,
-    "timeWeek": 543,
-    "timeMonth": 522,
-    "timeYear": 565,
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-09": 37,
-      "2023-04-13": 20,
-      "2023-04-07": 28,
-      "2023-01-25": 20
+      "2024-01-22": 0
     }
   }
 ]
